@@ -1,7 +1,7 @@
 # Reading Notes
 
 ## Introduction:
-Hi, I am Thomas :smile: and I am new to web development. 😃
+Hi, I am Thomas and I am new to web development. 😃
 
 Link to my portfolio: [My portfolio](https://github.com/Rapib) 
 
