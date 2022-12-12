@@ -3,6 +3,8 @@
 ## Introduction:
 Hi, I am Thomas and I am new to web development. 😃
 
+As I am working through the course, this page will be updated frequently.
+
 Link to my portfolio: [My portfolio](https://github.com/Rapib) 
 
 
