@@ -14,3 +14,5 @@ Always learning, improving. Trying to be better everyday. Pick up some new skill
 1. Ask questions
 2. Look for additional resources 
 3. Failing is normal and inevitable
+
+![HelloWorld](https://raw.githubusercontent.com/helloSystem/hello/1d1e69be8a689c5e0a176df821c14f0b49b241a4/branding/hello_variation.svg)
