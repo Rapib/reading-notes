@@ -7,7 +7,7 @@ Link to my portfolio: [My portfolio](https://github.com/Rapib)
 
 
 ### *Growth midset:*
-Always learning, improving. 
+Always learning, improving. Trying to be better everyday. Pick up some new skills.
 
 #### **3 reminders to keep myself in a growth mindset:**
 
