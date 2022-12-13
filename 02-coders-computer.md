@@ -16,7 +16,7 @@ Belows are the common Linus commands that we will use.
 > Command + (argument): 
 
 
-> Pwd 
+> pwd 
 
 
 list location, path 
@@ -52,13 +52,13 @@ cd hi
 
 ls -la
 ```
-> Cd .. 
+> cd .. 
 
 Go up one level (… = 2 level, …. = 3 level) 
 *just cd < home directory 
  
 
-> Cd FOLDER-NAME 
+> cd FOLDER-NAME OR 'Folder that has space' use (') quote OR Folder\ Name use (\) backslash does is escape (or nullify) the special meaning of the next character
 
 Change folder/directory 
 
@@ -70,18 +70,18 @@ It's kinda hard to demonstrate here so it's probably best if you try it yourself
 
   
 
-*Cd pro/course/hi  (can be more specific) 
+*cd pro/course/hi  (can be more specific) 
 
  
 
 
-> Tree 
+> tree 
 
 List all files inside folder as a tree format 
 
  
 
-> Clear 
+> clear 
 
 Clear the output of the cmd line (get rid of text only, doesn’t change anyting) 
 
@@ -94,13 +94,13 @@ Go back to used command 
  
  
 
-> Mkdir FOLDER-NAME 
+> mkdir FOLDER-NAME 
 
 Create folder 
 
  
 
-> Touch FILENAME.EXTENSION 
+> touch FILENAME.EXTENSION 
 
 Create file 
 
@@ -121,6 +121,8 @@ A file or directory location in relation to the root of the file system.
 . (dot) - This is a reference to your current directory. eg in the example above we referred to Documents on line 4 with a relative path. It could also be written as ./Documents (Normally this extra bit is not required but in later sections we will see where it comes in handy).
                       
 .. (dotdot)- This is a reference to the parent directory. You can use this several times in a path to keep going up the hierarchy. eg if you were in the path /home/ryan you could run the command ls ../../ and this would do a listing of the root directory. [^2]
+ 
+ > ***Linux is Case Sensitive***
 
 ^C 
 
