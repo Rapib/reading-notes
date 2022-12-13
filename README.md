@@ -35,3 +35,6 @@ This page contains my reading notes.
 - [13](201/13.md)
 - [14](201/14.md)
 - [15](201/15.md)
+
+
+## [Stretch Goals](102/Stretch-Goals.md)
