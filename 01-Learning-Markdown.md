@@ -59,6 +59,8 @@ markdown `<https://www.google.com>`
 markdown `![alt text](img link)`
 
 
+Above are some syntax examples that could be useful. 
+
 ## Things I want to know more about
 
 markdown and html similarities
