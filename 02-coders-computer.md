@@ -58,7 +58,7 @@ Go up one level (… = 2 level, …. = 3 level) 
 *just cd < home directory 
  
 
-> cd FOLDER-NAME OR 'Folder that has space' use (') quote OR Folder\ Name use (\) backslash does is escape (or nullify) the special meaning of the next character
+> cd FOLDER-NAME OR 'Folder that has space' use (') quote OR Folder\ Name use (\ ) backslash does is escape (or nullify) the special meaning of the next character
 
 Change folder/directory 
 
