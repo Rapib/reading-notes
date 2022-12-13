@@ -1,8 +1,18 @@
-# Read: 01 - Learning Markdown
+# 01 - Learning Markdown
 
 Syntax is the foundation and the basic of coding.  
 We use syntax to change the format and design of the content.  
 Markdown and html are both syntax, but they are not the same.
+
+### *Growth midset:*
+Always learning, improving. Trying to be better everyday. Pick up some new skills.
+
+#### **3 reminders to keep myself in a growth mindset:**
+
+1. Ask questions
+2. Look for additional resources 
+3. Failing is normal and inevitable
+
 
 #### ***The following are some syntax examples***
 
