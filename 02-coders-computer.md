@@ -8,7 +8,7 @@ Pick a text editor can do the following:
 * extensions 
 * theme
 
-As it will save developer time and help speed up the process. In addition, it will help point out the mistakes that developer made. 
+As it will save developer time and help speed up the process. In addition, it will help point out the mistakes that developer made. Basic editor doesn't do any of the above, eg Word, notepad
 
 Belows are the common Linus commands that we will use. 
 
