@@ -15,6 +15,9 @@ Belows are the common Linus commands that we will use.
 ## Linux command:
 > Command + (argument): 
 
+> file
+
+what type of file a file or directory 
 
 > pwd 
 
@@ -29,7 +32,8 @@ option examples:
 
 –l < long list 
 
--la
+-a < list the contents, including hidden files (start with a .)
+
 
 /etc < not to list our current directory but instead to list that directories contents 
 Show what it inside a directory 
