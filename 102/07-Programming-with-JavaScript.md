@@ -86,13 +86,13 @@ function myFunction() {
 - Comparison Operators
   - `==` equal to
   - `===` equal value and equal type
-    - `!=` not equal
-    - `!==` not equal value or not equal type
-    - `>` greater than
-    - `<` less than
-    - `>=` greater than or equal to
-    - `<=` less than or equal to
-    - `?` ternary operator
+  - `!=` not equal
+  - `!==` not equal value or not equal type
+  - `>` greater than
+  - `<` less than
+  - `>=` greater than or equal to
+  - `<=` less than or equal to
+  - `?` ternary operator
 - Logical Operators
   - `&&` logical and
   - `||` logical or
@@ -111,6 +111,13 @@ const y = 2 * 3 + 1;
 
 Despite * and + coming in different orders, both expressions would result in 7 because * has precedence over +, so the *-joined expression will always be evaluated first.
 
+* `function addTen(num){`  
+  `num += 10;`  
+  `return num`  
+`}`
+
+console.log(addTen(10)):  
+will show 20
 
 ## additional resources:
 

@@ -1,5 +1,7 @@
 # 06 - Dynamic web pages with JavaScript
 
+***prompt(whatever is inside will always be a string, not number even if you put 2,3...)
+
 ## JavaScript is a  
 - ightweight  
 - interpreted  
