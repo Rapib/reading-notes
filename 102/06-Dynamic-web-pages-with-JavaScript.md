@@ -79,6 +79,11 @@ but if we change it to greeting = "abc" without let, it will work
 > 1 + 3 => 4  
 > "1" + 3 => 13
 
+
+`= means is  
+
+== means equal in JS`
+
 [^1]: https://code-maven.com/javascript-input-with-prompt-and-confirm]
 
 [^2]: https://www.w3schools.com/js/js_variables.asp
